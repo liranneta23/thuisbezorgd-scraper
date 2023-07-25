@@ -80,5 +80,7 @@ if __name__ == "__main__":
     print("These were the restaurants to add")
 
     insert_new_restaurants(restaurants)
+
+    # as a bonus
     menu = get_menu_of_restaurant(ObjectId('64bfc1bea5d86aba0b952009'))
     print(menu)
