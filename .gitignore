@@ -1,3 +1,6 @@
+# Constants file
+constants.py
+
 # Ignore operating system files
 .DS_Store
 Thumbs.db
