@@ -1,0 +1,14 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python-specific files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+
+# Ignore editor-specific files
+.idea/
