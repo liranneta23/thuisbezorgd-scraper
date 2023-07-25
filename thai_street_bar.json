@@ -1,0 +1,526 @@
+{"brand": {"name": "Thai Street Bar", "branchName": "", "chainId": "",
+"description": [], "slogan": "Lekker en snel!", "logoUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1690192391/static-takeaway-
+om/images/restaurants/nl/000QOQ5N/logo_465x320", "headerImageUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1687431995/static-takeaway-
+om/images/restaurants/nl/000QOQ5N/headers/header"},
+"customerServiceFoodInfoUrl":
+"https://www.thuisbezorgd.nl/klantenservice/contact-
+ns?reason=Eten+en+veiligheidsissues&category=default", "rating": {"votes": 22,
+"score": 4.3}, "location": {"streetName": "Oudezijds Voorburgwal",
+"streetNumber": "32", "postalCode": "1012GD", "city": "Amsterdam", "country":
+"NL", "lat": "52.375258", "lng": "4.8995404", "timeZone": "Europe/Amsterdam"},
+"restaurantId": "000QOQ5N", "colophon": {"status": "fetched", "data":
+{"branchName": "", "restaurantName": "Thai Street Bar", "streetName": "Oudezijds
+Voorburgwal", "streetNumber": "32", "postalCode": "1012GD", "city":
+"Amsterdam"}}, "summary": {"title": null, "content": null}, "delivery":
+{"times": {"0": [], "1": [], "2": [], "3": [], "4": [{"start": 930, "end": 1260,
+"formattedStart": "15:30", "formattedEnd": "21:00"}], "5": [{"start": 750,
+"end": 1260, "formattedStart": "12:30", "formattedEnd": "21:00"}], "6": []},
+"isOpenForOrder": false, "isOpenForPreorder": false, "isScooberRestaurant":
+true, "durationRange": {"min": 35, "max": 55}}, "exceptionalStatus": null,
+"menu": {"currency": {"denominator": 100, "code": "EUR"}, "categories": [{"id":
+"0Q3NP1301", "name": "Voorgerechten", "description": [], "imageUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1688558043/static-takeaway-
+om/images/generic/categories/1_asian/asia_fruehlingsrollen", "overviewImageUrl":
+null, "timeRestrictions": {}, "productIds": ["0PO7RNP311", "0RO7RNP311",
+"0N57RNP311", "371P53RRO1"]}, {"id": "01ONP1301", "name": "Soepen",
+"description": [], "imageUrl": "", "overviewImageUrl": null, "timeRestrictions":
+{}, "productIds": ["0R1003P311", "0QN003P311"]}, {"id": "07ONP1301", "name":
+"Wok gerechten", "description": ["Alle gerechten worden geserveerd met rijst en
+saus"], "imageUrl": "https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1688558043/static-takeaway-
+om/images/generic/categories/1_asian/asia_thai", "overviewImageUrl": null,
+"timeRestrictions": {}, "productIds": ["3N0173RRO1", "357P73RRO1", "O5N35R5O11",
+"O3O35R5O11", "O0135R5O11", "O35O5Q1R51"]}, {"id": "330NP7N31", "name": "Curry
+gerechten", "description": [], "imageUrl": "", "overviewImageUrl": null,
+"timeRestrictions": {}, "productIds": ["3OQN1ORRO1", "37QN1ORRO1"]}, {"id":
+"005NP1301", "name": "Authentiek Issaans eten", "description": [], "imageUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1688558043/static-takeaway-
+om/images/generic/categories/vegetarian/asian_1274963614", "overviewImageUrl":
+null, "timeRestrictions": {}, "productIds": ["317P1ORRO1", "3O7P1ORRO1",
+"33QP1ORRO1", "3PQP1ORRO1", "RN117QPR71", "Q7N13030Q1"]}, {"id": "05RNP1301",
+"name": "Extra's", "description": [], "imageUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1688558043/static-takeaway-
+om/images/generic/categories/rice/basmati_1437464050", "overviewImageUrl": null,
+"timeRestrictions": {}, "productIds": ["0R77N3P311", "R7P73QN5P1", "R0773QN5P1",
+"R3773QN5P1", "RP773QN5P1", "RR773QN5P1", "QNQ5P5150N", "Q5Q5P5150N"]}, {"id":
+"30R0PRN31", "name": "Dranken", "description": [], "imageUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1688558043/static-takeaway-
+om/images/generic/categories/1_drinks/getraenke_cola", "overviewImageUrl": null,
+"timeRestrictions": {}, "productIds": ["3R553O1051"]}, {"id": "3QP1PRN31",
+"name": "Alcoholische dranken", "description": [], "imageUrl":
+"https://res.cloudinary.com/tkwy-prod-
+u/image/upload/{parameters}/v1688558043/static-takeaway-
+om/images/generic/categories/1_drinks/getraenke_bier2", "overviewImageUrl":
+null, "timeRestrictions": {}, "productIds": ["RRQQOQN5P1", "310R3O1051",
+"3O0R3O1051", "370R3O1051"]}], "optionGroups":
+{"f03f3183af72317488321c756f69d5b7": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["3O1N507O1N1", "371N507O1N1", "30NN507O1N1", "33NN507O1N1", "R07701QPRR1"]},
+"fa3ebda8ff47a8acae27f262941d356e": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["R30O1OQPRR1", "RP0O1OQPRR1", "RR0O1OQPRR1", "RN1O1OQPRR1", "R51O1OQPRR1"]},
+"8ad8699fd96f28f52f159a8095889b59": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["RRNRN5QPRR1", "RN3RN5QPRR1", "R5QP7ON71N3", "ROORN5QPRR1"]},
+"5e9107108c84308aed13c665f89d6062": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["R50715QPRR1", "RQ0715QPRR1", "R11715QPRR1", "RO1715QPRR1", "R71715QPRR1"]},
+"6c83e922a5c164a490088bef123ec607": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["RP7RR5QPRR1", "RR7RR5QPRR1", "RNQRR5QPRR1", "R5QRR5QPRR1", "RQQRR5QPRR1"]},
+"f570622a7a15ae03b71f124c06046f60": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["RN313PQPRR1", "R5313PQPRR1", "RQ313PQPRR1", "R1O13PQPRR1", "ROO13PQPRR1"]},
+"bc63ea79f07f69696ac23b54e041a92e": {"name": "Keuze", "isTypeMulti": false,
+"isRequired": true, "minChoices": 1, "maxChoices": 1, "optionIds":
+["3OP5517O1N1", "37P5517O1N1", "3075517O1N1", "3375517O1N1", "3P75517O1N1"]}},
+"options": {"3O1N507O1N1": {"name": "Vegetarisch", "minAmount": 1, "maxAmount":
+1, "prices": {"delivery": 0, "pickup": 0, "deposit": null}, "metric": {"unit":
+null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "371N507O1N1": {"name": "Kip",
+"minAmount": 1, "maxAmount": 1, "prices": {"delivery": 100, "pickup": 100,
+"deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"30NN507O1N1": {"name": "Varkensvlees", "minAmount": 1, "maxAmount": 1,
+"prices": {"delivery": 200, "pickup": 200, "deposit": null}, "metric": {"unit":
+null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "33NN507O1N1": {"name":
+"Rundvlees", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 200,
+"pickup": 0, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "R07701QPRR1": {"name": "Zeevruchten", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 300, "pickup": 300, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"R30O1OQPRR1": {"name": "Vegetarisch", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 0, "pickup": 0, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "RP0O1OQPRR1": {"name": "Kip",
+"minAmount": 1, "maxAmount": 1, "prices": {"delivery": 55, "pickup": 55,
+"deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"RR0O1OQPRR1": {"name": "Varkensvlees", "minAmount": 1, "maxAmount": 1,
+"prices": {"delivery": 100, "pickup": 100, "deposit": null}, "metric": {"unit":
+null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "RN1O1OQPRR1": {"name":
+"Rundvlees", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 100,
+"pickup": 100, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "R51O1OQPRR1": {"name": "Zeevruchten", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 200, "pickup": 200, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"RRNRN5QPRR1": {"name": "Vegetarisch", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 0, "pickup": 0, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "RN3RN5QPRR1": {"name": "Kip",
+"minAmount": 1, "maxAmount": 1, "prices": {"delivery": 100, "pickup": 100,
+"deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"R5QP7ON71N3": {"name": "Rundvlees", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 195, "pickup": 195, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "ROORN5QPRR1": {"name":
+"Zeevruchten", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 200,
+"pickup": 200, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "R50715QPRR1": {"name": "Vegetarisch", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 0, "pickup": 0, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"RQ0715QPRR1": {"name": "Kip", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 100, "pickup": 100, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "R11715QPRR1": {"name":
+"Varkensvlees", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 175,
+"pickup": 175, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "RO1715QPRR1": {"name": "Rundvlees", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 195, "pickup": 195, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"R71715QPRR1": {"name": "Zeevruchten", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 255, "pickup": 255, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "RP7RR5QPRR1": {"name":
+"Vegetarisch", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 0,
+"pickup": 0, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "RR7RR5QPRR1": {"name": "Kip", "minAmount": 1,
+"maxAmount": 1, "prices": {"delivery": 55, "pickup": 55, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"RNQRR5QPRR1": {"name": "Varkensvlees", "minAmount": 1, "maxAmount": 1,
+"prices": {"delivery": 155, "pickup": 155, "deposit": null}, "metric": {"unit":
+null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "R5QRR5QPRR1": {"name":
+"Rundvlees", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 195,
+"pickup": 195, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "RQQRR5QPRR1": {"name": "Zeevruchten", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 295, "pickup": 295, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"RN313PQPRR1": {"name": "Vegetarisch", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 0, "pickup": 0, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "R5313PQPRR1": {"name": "Kip",
+"minAmount": 1, "maxAmount": 1, "prices": {"delivery": 100, "pickup": 100,
+"deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"RQ313PQPRR1": {"name": "Varkensvlees", "minAmount": 1, "maxAmount": 1,
+"prices": {"delivery": 155, "pickup": 155, "deposit": null}, "metric": {"unit":
+null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "R1O13PQPRR1": {"name":
+"Rundvlees", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 155,
+"pickup": 155, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "ROO13PQPRR1": {"name": "Zeevruchten", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 245, "pickup": 245, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"3OP5517O1N1": {"name": "Vegetarisch", "minAmount": 1, "maxAmount": 1, "prices":
+{"delivery": 0, "pickup": 0, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "37P5517O1N1": {"name": "Kip",
+"minAmount": 1, "maxAmount": 1, "prices": {"delivery": 100, "pickup": 100,
+"deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false},
+"3075517O1N1": {"name": "Varkensvlees", "minAmount": 1, "maxAmount": 1,
+"prices": {"delivery": 155, "pickup": 155, "deposit": null}, "metric": {"unit":
+null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}, "3375517O1N1": {"name":
+"Rundvlees", "minAmount": 1, "maxAmount": 1, "prices": {"delivery": 175,
+"pickup": 175, "deposit": null}, "metric": {"unit": null, "quantity": null},
+"priceUnit": null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null,
+"alcoholVolume": null, "caffeineAmount": null, "isSoldOut": false,
+"isExcludedFromMov": false}, "3P75517O1N1": {"name": "Zeevruchten", "minAmount":
+1, "maxAmount": 1, "prices": {"delivery": 275, "pickup": 275, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}},
+"products": {"0PO7RNP311": {"name": "Mini loempia's", "description": ["Acht
+stuks vegetarische loempia's met chilisaus"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/mini_spring
+_rolls.png?timestamp=1688558043", "variants": [{"id": "0PO7RNP311", "name":
+null, "optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 590, "pickup": 590, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "0RO7RNP311": {"name":
+"Kipsat\u00e9", "description": ["Drie stuks met pindasaus"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/sattay_chic
+ken.png?timestamp=1688558043", "variants": [{"id": "0RO7RNP311", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 750, "pickup": 750, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "0N57RNP311": {"name":
+"Viskoekjes", "description": ["Zes stuks Thaise voskoekjes met chilisaus"],
+"imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/fish_cookie
+s.png?timestamp=1688558043", "variants": [{"id": "0N57RNP311", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 650, "pickup": 650, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "371P53RRO1": {"name":
+"Hollandse gemengde snacks", "description": ["Zeven stuks gemixt met frikandel,
+bitterballen, kipnuggets and sauce"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/holland_mix
+_snacks.png?timestamp=1688558043", "variants": [{"id": "371P53RRO1", "name":
+null, "optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 650, "pickup": 650, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "0R1003P311": {"name": "Big
+tom yam soep met rijst", "description": ["Tomaat, champignons, ui en koriander.
+Dit gerecht wordt pittig geserveerd als er geen notities zijn"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/tom_yam_sou
+p.png?timestamp=1688558043", "variants": [{"id": "0R1003P311", "name": null,
+"optionGroupIds": ["f03f3183af72317488321c756f69d5b7"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1350, "pickup": 1350, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"0QN003P311": {"name": "Big tom kha soep", "description": ["Tomaat, champignons,
+ui en koriander in kokosmelk. Dit gerecht wordt pittig geserveerd als er geen
+tonen zijn."], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/tom_kha_sou
+p.png?timestamp=1688558043", "variants": [{"id": "0QN003P311", "name": null,
+"optionGroupIds": ["f03f3183af72317488321c756f69d5b7"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1350, "pickup": 1350, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"3N0173RRO1": {"name": "Kao phad", "description": ["Met gebakken rijst en mix
+groenten"], "imageUrl": null, "variants": [{"id": "3N0173RRO1", "name": null,
+"optionGroupIds": ["fa3ebda8ff47a8acae27f262941d356e"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1495, "pickup": 1495, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"357P73RRO1": {"name": "Phad Thai noodles", "description": ["Met gebakken
+noedels, mix groenten en Thaise saus"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/pad_thai.pn
+g?timestamp=1688558043", "variants": [{"id": "357P73RRO1", "name": null,
+"optionGroupIds": ["8ad8699fd96f28f52f159a8095889b59"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1495, "pickup": 1495, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"O5N35R5O11": {"name": "Sweet sauce vegetables and rice", "description": ["Met
+gebakken groenten in een zoete saus"], "imageUrl": null, "variants": [{"id":
+"O5N35R5O11", "name": null, "optionGroupIds":
+["5e9107108c84308aed13c665f89d6062"], "shippingTypes": ["DELIVERY", "PICKUP"],
+"prices": {"delivery": 1495, "pickup": 1495, "deposit": null}, "metric":
+{"unit": null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "O3O35R5O11": {"name": "Wok
+fried vegetables and rice", "description": ["Gebakken groenten in oestersaus"],
+"imageUrl": null, "variants": [{"id": "O3O35R5O11", "name": null,
+"optionGroupIds": ["6c83e922a5c164a490088bef123ec607"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1495, "pickup": 1495, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"O0135R5O11": {"name": "Pad krapow met rijst", "description": ["Pittige Thaise
+gerecht met krapow leaf, ui, paprika, bamboo en hete chili. Dit gerecht wordt
+pittig geserveerd als er geen tonen zijn"], "imageUrl": null, "variants":
+[{"id": "O0135R5O11", "name": null, "optionGroupIds":
+["f570622a7a15ae03b71f124c06046f60"], "shippingTypes": ["DELIVERY", "PICKUP"],
+"prices": {"delivery": 1545, "pickup": 1545, "deposit": null}, "metric":
+{"unit": null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "O35O5Q1R51": {"name":
+"Cashew nut chicken met rijst", "description": ["Gebakken kip met cashewnoten,
+gemixte groente en milde chili olie"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/cashew_nut_
+chicken.png?timestamp=1688558043", "variants": [{"id": "O35O5Q1R51", "name":
+null, "optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 1750, "pickup": 1750, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "3OQN1ORRO1": {"name":
+"Panang curry and steamed rice", "description": ["Milde curry met kokosmelk,
+paprika, kouseband, Thaise aubergine, ui en citroengras"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/panang.png?
+timestamp=1688558043", "variants": [{"id": "3OQN1ORRO1", "name": null,
+"optionGroupIds": ["bc63ea79f07f69696ac23b54e041a92e"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1550, "pickup": 1550, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"37QN1ORRO1": {"name": "Green curry and steamed rice", "description": ["Pittige
+curry met kokosmelk, Thaise aubergine, aubergine, bamboe en kouseband"],
+"imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/green_curry
+.png?timestamp=1688558043", "variants": [{"id": "37QN1ORRO1", "name": null,
+"optionGroupIds": ["bc63ea79f07f69696ac23b54e041a92e"], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 1550, "pickup": 1550, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"317P1ORRO1": {"name": "Som tam pu plara (papaya salad)", "description":
+["Pittige Thaise salade met papaja, chili, tomaat, kouseband en rauwe krab. De
+salade wordt pittig geserveerd tenzij anders vermeld. Laat een notitie achter
+voor andere kruidenniveaus"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/som_tam_pu_
+plara.png?timestamp=1688558043", "variants": [{"id": "317P1ORRO1", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 1795, "pickup": 1795, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "3O7P1ORRO1": {"name": "Som
+tam Thai (papaya salad)", "description": ["Pittige Thaise salade met papaja,
+chili, tomaat, kouseband, gedroogde garnalen, wortels en pinda's. De salade
+wordt pittig geserveerd tenzij anders vermeld"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/som_tam_tha
+i.png?timestamp=1688558043", "variants": [{"id": "3O7P1ORRO1", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 1695, "pickup": 1695, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "33QP1ORRO1": {"name": "Moo
+nam tok (wok spicy pork salad) with Rice", "description": ["Hele pittige salade
+met varkensvlees. De salade wordt pittig geserveerd tenzij anders vermeld"],
+"imageUrl": null, "variants": [{"id": "33QP1ORRO1", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 1895, "pickup": 1895, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "3PQP1ORRO1": {"name": "Nua
+nam tok (wok spicy beef salad) with Rice", "description": ["Hele pittige salade
+met rundvlees. De salade wordt pittig geserveerd tenzij anders vermeld"],
+"imageUrl": null, "variants": [{"id": "3PQP1ORRO1", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 1895, "pickup": 1895, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "RN117QPR71": {"name": "Laab
+kai kip met rijst", "description": ["Fijngehakt vlees in pikante Thaise saus.
+Dit gerecht wordt pittig geserveerd als er geen notities zijn"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/laab_kai.pn
+g?timestamp=1688558043", "variants": [{"id": "RN117QPR71", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 1895, "pickup": 1895, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "Q7N13030Q1": {"name": "Tam
+taad", "description": ["Authentieke Thaise zeevruchtenmix met papaya salade en
+kip. De salade wordt pittig geserveerd tenzij anders vermeld"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/tam_taad_-
+1_person.png?timestamp=1688558043", "variants": [{"id": "Q7N13030Q1", "name":
+null, "optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 4250, "pickup": 3950, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "0R77N3P311": {"name": "Witte
+rijst", "description": ["Gestoomde witte rijst"], "imageUrl":
+"https://static.takeaway.com/images/restaurants/nl/000QOQ5N/products/white_rice.
+png?timestamp=1688558043", "variants": [{"id": "0R77N3P311", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 300, "pickup": 300, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "R7P73QN5P1": {"name": "Erg
+pittige chili vlokken", "description": [], "imageUrl": null, "variants": [{"id":
+"R7P73QN5P1", "name": null, "optionGroupIds": [], "shippingTypes": ["DELIVERY",
+"PICKUP"], "prices": {"delivery": 75, "pickup": 75, "deposit": null}, "metric":
+{"unit": null, "quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "R0773QN5P1": {"name":
+"Pittige vissaus", "description": ["Prik nam pla"], "imageUrl": null,
+"variants": [{"id": "R0773QN5P1", "name": null, "optionGroupIds": [],
+"shippingTypes": ["DELIVERY", "PICKUP"], "prices": {"delivery": 75, "pickup":
+75, "deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit":
+null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+null, "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"R3773QN5P1": {"name": "Zoete saus", "description": [], "imageUrl": null,
+"variants": [{"id": "R3773QN5P1", "name": null, "optionGroupIds": [],
+"shippingTypes": ["DELIVERY", "PICKUP"], "prices": {"delivery": 75, "pickup":
+75, "deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit":
+null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+null, "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"RP773QN5P1": {"name": "Sojasaus", "description": [], "imageUrl": null,
+"variants": [{"id": "RP773QN5P1", "name": null, "optionGroupIds": [],
+"shippingTypes": ["DELIVERY", "PICKUP"], "prices": {"delivery": 75, "pickup":
+75, "deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit":
+null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+null, "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"RR773QN5P1": {"name": "Issan saus (Gel)", "description": [], "imageUrl": null,
+"variants": [{"id": "RR773QN5P1", "name": null, "optionGroupIds": [],
+"shippingTypes": ["DELIVERY", "PICKUP"], "prices": {"delivery": 95, "pickup":
+50, "deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit":
+null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+null, "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"QNQ5P5150N": {"name": "Bestek set", "description": [], "imageUrl": null,
+"variants": [{"id": "QNQ5P5150N", "name": null, "optionGroupIds": [],
+"shippingTypes": ["DELIVERY", "PICKUP"], "prices": {"delivery": 75, "pickup":
+75, "deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit":
+null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+"0,0", "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov":
+false}]}, "Q5Q5P5150N": {"name": "Eetstokjes", "description": [], "imageUrl":
+null, "variants": [{"id": "Q5Q5P5150N", "name": null, "optionGroupIds": [],
+"shippingTypes": ["DELIVERY", "PICKUP"], "prices": {"delivery": 45, "pickup":
+45, "deposit": null}, "metric": {"unit": null, "quantity": null}, "priceUnit":
+null, "pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+"0,0", "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov":
+false}]}, "3R553O1051": {"name": "Coca-Cola 33cl", "description": ["Blikje"],
+"imageUrl": null, "variants": [{"id": "3R553O1051", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 295, "pickup": 275, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": null, "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "RRQQOQN5P1": {"name":
+"Heineken 33cl", "description": ["Blikje"], "imageUrl": null, "variants":
+[{"id": "RRQQOQN5P1", "name": null, "optionGroupIds": [], "shippingTypes":
+["DELIVERY", "PICKUP"], "prices": {"delivery": 295, "pickup": 295, "deposit":
+null}, "metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume": null,
+"caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov": false}]},
+"310R3O1051": {"name": "Chang Thai bier 33cl", "description": ["Fles"],
+"imageUrl": null, "variants": [{"id": "310R3O1051", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 550, "pickup": 550, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": "5,0", "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}, "3O0R3O1051": {"name": "Leo
+Thai bier 33cl", "description": ["Fles"], "imageUrl": null, "variants": [{"id":
+"3O0R3O1051", "name": null, "optionGroupIds": [], "shippingTypes": ["DELIVERY",
+"PICKUP"], "prices": {"delivery": 550, "pickup": 550, "deposit": null},
+"metric": {"unit": null, "quantity": null}, "priceUnit": null,
+"pricePerUnitPickup": null, "pricePerUnitDelivery": null, "alcoholVolume":
+"5,0", "caffeineAmount": null, "isSoldOut": false, "isExcludedFromMov":
+false}]}, "370R3O1051": {"name": "Singha Thai bier 33cl", "description":
+["Fles"], "imageUrl": null, "variants": [{"id": "370R3O1051", "name": null,
+"optionGroupIds": [], "shippingTypes": ["DELIVERY", "PICKUP"], "prices":
+{"delivery": 550, "pickup": 550, "deposit": null}, "metric": {"unit": null,
+"quantity": null}, "priceUnit": null, "pricePerUnitPickup": null,
+"pricePerUnitDelivery": null, "alcoholVolume": "5,0", "caffeineAmount": null,
+"isSoldOut": false, "isExcludedFromMov": false}]}}, "popularProductIds":
+["3OQN1ORRO1", "37QN1ORRO1", "O0135R5O11"], "discounts": [],
+"autoAddedProducts": {}}, "pickup": {"times": {"0": [], "1": [], "2": [], "3":
+[], "4": [{"start": 930, "end": 1260, "formattedStart": "15:30", "formattedEnd":
+"21:00"}], "5": [{"start": 750, "end": 1260, "formattedStart": "12:30",
+"formattedEnd": "21:00"}], "6": []}, "isOpenForOrder": false,
+"isOpenForPreorder": false}, "supports": {"delivery": true, "pickup": true,
+"stampCards": true, "vouchers": true, "productRemarks": true, "onlinePayments":
+true, "tipping": true}, "primarySlug": "thai-street-bar", "minisiteUrl":
+"thaistreetbar-amsterdam.nl", "restaurantHygieneRatingId": null,
+"restaurantPhoneNumber": "0206226992", "indicators": {"isActive": true,
+"isTestRestaurant": false, "isGroceryStore": false}, "payment": {"methods":
+["ideal", "paypal", "creditcard", "bitpay", "giftCard"], "paymentMethodFees":
+{"ideal": {"type": "amount", "value": 25}, "paypal": {"type": "amount", "value":
+25}, "giftCard": {"type": "amount", "value": 25}}, "fees": [{"name":
+"serviceCharge", "type": "amount", "value": 99, "minValue": null, "maxValue":
+null, "shippingType": "delivery"}], "messages": {"onlinePayment": ["Om de
+verspreiding van het Coronavirus zoveel mogelijk tegen te gaan, laten wij na
+aanbellen jouw bestelling bij de deur achter."], "offlinePayment": ["Selecteer
+een online betaalmethode voor contactloze bezorging."]}, "issuers": {"ideal":
+[{"id": "BUNQNL2A", "name": "bunq"}, {"id": "INGBNL2A", "name": "ING"}, {"id":
+"KNABNL2H", "name": "Knab"}, {"id": "RBRBNL21", "name": "Regiobank"}, {"id":
+"SNSBNL2A", "name": "SNS Bank"}, {"id": "TRIONL2U", "name": "Triodos"}, {"id":
+"FVLBNL22", "name": "Van Lanschot"}, {"id": "ABNANL2A", "name": "ABN AMRO"},
+{"id": "ASNBNL21", "name": "ASN Bank"}, {"id": "RABONL2U", "name": "Rabobank"},
+{"id": "REVOLT21", "name": "Revolut"}, {"id": "BITSNL2A", "name": "Yoursafe"}]}}}
